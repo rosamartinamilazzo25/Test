@@ -15,5 +15,5 @@ public class GetFatturaResponse {
 	private String numeroFattura;
 	private String stato;
 
-
+//
 }
